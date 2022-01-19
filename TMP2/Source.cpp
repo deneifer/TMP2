@@ -91,7 +91,7 @@ int main()
 {
 	setlocale(LC_ALL,"Rus");
 	int data1[3], data2[3];
-	cout << "—равнение двух дат." << endl << "¬ведите 1 дату:" << endl;
+	cout << "—равнение двух дат" << endl << "¬ведите 1 дату:" << endl;
 	enterdata(data1);
 	cout <<endl<< "¬ведите 2 дату:"<<endl;
 	enterdata(data2);
