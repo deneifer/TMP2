@@ -98,7 +98,7 @@ int main()
 	if (data1[0] < 32 && data1[1] < 13 && data2[0] < 32 and data2[1] < 13)
 		showlatedata(data1, data2);
 	else
-		cout << "Даты введены неверно!." << endl;
+		cout << "Даты введены неверно!" << endl;
 
 	system("PAUSE");
 	return 0;
